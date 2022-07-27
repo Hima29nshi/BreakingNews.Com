@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/NewsApp-v2/app/src/main/res/layout/activity_detail_saved_news.xml" value="0.1" />
+        <entry key="..\:/NewsApp-v2/app/src/main/res/layout/activity_details.xml" value="0.1" />
+        <entry key="..\:/NewsApp-v2/app/src/main/res/layout/activity_health.xml" value="0.1" />
+        <entry key="..\:/NewsApp-v2/app/src/main/res/layout/activity_saved_news.xml" value="0.1" />
+        <entry key="..\:/NewsApp-v2/app/src/main/res/layout/headlines_list_items.xml" value="0.1" />
+        <entry key="..\:/NewsApp-v2/app/src/main/res/layout/recycler_headlines.xml" value="0.1" />
+        <entry key="..\:/NewsApp-v2/app/src/main/res/layout/saved_news_list.xml" value="0.1" />
+        <entry key="..\:/NewsApp-v2/app/src/main/res/menu/main_menu.xml" value="0.13223684210526315" />
+        <entry key="..\:/NewsApp/app/src/main/res/drawable/button_bg.xml" value="0.22552083333333334" />
+        <entry key="..\:/NewsApp/app/src/main/res/drawable/edit_text_bg.xml" value="0.22552083333333334" />
+        <entry key="..\:/NewsApp/app/src/main/res/drawable/view_page_curve.xml" value="0.22552083333333334" />
+        <entry key="..\:/NewsApp/app/src/main/res/layout/activity_business.xml" value="0.1" />
+        <entry key="..\:/NewsApp/app/src/main/res/layout/activity_details.xml" value="0.1" />
+        <entry key="..\:/NewsApp/app/src/main/res/layout/activity_general.xml" value="0.1" />
+        <entry key="..\:/NewsApp/app/src/main/res/layout/activity_health.xml" value="0.1" />
+        <entry key="..\:/NewsApp/app/src/main/res/layout/activity_login.xml" value="0.16" />
+        <entry key="..\:/NewsApp/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/NewsApp/app/src/main/res/layout/activity_science.xml" value="0.1" />
+        <entry key="..\:/NewsApp/app/src/main/res/layout/activity_sports.xml" value="0.1" />
+        <entry key="..\:/NewsApp/app/src/main/res/layout/activity_sports2.xml" value="0.1" />
+        <entry key="..\:/NewsApp/app/src/main/res/layout/activity_technology.xml" value="0.1" />
+        <entry key="..\:/NewsApp/app/src/main/res/layout/fragment_business.xml" value="0.13223684210526315" />
+        <entry key="..\:/NewsApp/app/src/main/res/layout/fragment_login_tab_fragment.xml" value="0.1802536231884058" />
+        <entry key="..\:/NewsApp/app/src/main/res/layout/fragment_register_tab_fragment.xml" value="0.1802536231884058" />
+        <entry key="..\:/NewsApp/app/src/main/res/layout/fragment_sports.xml" value="0.1" />
+        <entry key="..\:/NewsApp/app/src/main/res/layout/header.xml" value="0.13223684210526315" />
+        <entry key="..\:/NewsApp/app/src/main/res/layout/header_navigation.xml" value="0.1" />
+        <entry key="..\:/NewsApp/app/src/main/res/layout/headlines_list_items.xml" value="0.13223684210526315" />
+        <entry key="..\:/NewsApp/app/src/main/res/layout/login_tab_fragment.xml" value="0.1" />
+        <entry key="..\:/NewsApp/app/src/main/res/layout/nav_header.xml" value="0.13223684210526315" />
+        <entry key="..\:/NewsApp/app/src/main/res/layout/navigation_view.xml" value="0.1" />
+        <entry key="..\:/NewsApp/app/src/main/res/layout/recycler_headlines.xml" value="0.1" />
+        <entry key="..\:/NewsApp/app/src/main/res/layout/register_tab_fragment.xml" value="0.1802536231884058" />
+        <entry key="..\:/NewsApp/app/src/main/res/layout/search_bar.xml" value="0.1" />
+        <entry key="..\:/NewsApp/app/src/main/res/layout/toolbar.xml" value="0.1" />
+        <entry key="..\:/NewsApp/app/src/main/res/menu/main_menu.xml" value="0.13223684210526315" />
+        <entry key="..\:/NewsApp/app/src/main/res/menu/navigation_menu.xml" value="0.13223684210526315" />
+        <entry key="..\:/Users/Megha/OneDrive/Documents/SEMESTERS/SEM 6/MAD/NewsApp/NewsApp/app/src/main/res/layout/activity_business.xml" value="0.1" />
+        <entry key="..\:/Users/Megha/OneDrive/Documents/SEMESTERS/SEM 6/MAD/NewsApp/NewsApp/app/src/main/res/layout/activity_details.xml" value="0.16" />
+        <entry key="..\:/Users/Megha/OneDrive/Documents/SEMESTERS/SEM 6/MAD/NewsApp/NewsApp/app/src/main/res/layout/activity_health.xml" value="0.12796052631578947" />
+        <entry key="..\:/Users/Megha/OneDrive/Documents/SEMESTERS/SEM 6/MAD/NewsApp/NewsApp/app/src/main/res/layout/activity_main.xml" value="0.16" />
+        <entry key="..\:/Users/Megha/OneDrive/Documents/SEMESTERS/SEM 6/MAD/NewsApp/NewsApp/app/src/main/res/layout/activity_science.xml" value="0.12796052631578947" />
+        <entry key="..\:/Users/Megha/OneDrive/Documents/SEMESTERS/SEM 6/MAD/NewsApp/NewsApp/app/src/main/res/layout/activity_sports2.xml" value="0.1" />
+        <entry key="..\:/Users/Megha/OneDrive/Documents/SEMESTERS/SEM 6/MAD/NewsApp/NewsApp/app/src/main/res/layout/activity_technology.xml" value="0.12796052631578947" />
+        <entry key="..\:/Users/Megha/OneDrive/Documents/SEMESTERS/SEM 6/MAD/NewsApp/NewsApp/app/src/main/res/layout/header.xml" value="0.264" />
+        <entry key="..\:/Users/Megha/OneDrive/Documents/SEMESTERS/SEM 6/MAD/NewsApp/NewsApp/app/src/main/res/layout/headline_list_items.xml" value="0.12861842105263158" />
+        <entry key="..\:/Users/Megha/OneDrive/Documents/SEMESTERS/SEM 6/MAD/NewsApp/NewsApp/app/src/main/res/layout/headlines_list_items.xml" value="0.1" />
+        <entry key="..\:/Users/Megha/OneDrive/Documents/SEMESTERS/SEM 6/MAD/NewsApp/NewsApp/app/src/main/res/layout/toolbar.xml" value="0.1" />
+        <entry key="..\:/Users/Megha/OneDrive/Documents/SEMESTERS/SEM 6/MAD/NewsApp/NewsApp/app/src/main/res/menu/main_menu.xml" value="0.1" />
+        <entry key="..\:/Users/Shivani/Downloads/NewsApp-v3/NewsApp-v2/app/src/main/res/layout/activity_business.xml" value="0.16052631578947368" />
+        <entry key="..\:/Users/Shivani/Downloads/NewsApp-v3/NewsApp-v2/app/src/main/res/layout/activity_entertainment.xml" value="0.16052631578947368" />
+        <entry key="..\:/Users/Shivani/Downloads/NewsApp-v3/NewsApp-v2/app/src/main/res/layout/header_navigation.xml" value="0.1" />
+        <entry key="..\:/Users/Shivani/Downloads/NewsApp-v3/NewsApp-v2/app/src/main/res/menu/main_menu.xml" value="0.16052631578947368" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
